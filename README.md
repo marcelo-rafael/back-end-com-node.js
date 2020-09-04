@@ -34,6 +34,13 @@ Nessa aula nós vamos falar novamente sobre métodos HTTP, mas dessa vez na prá
 
  Nessa aula nós vamos aplicar na prática os três tipos de parâmetros: Query Params, Route Params e Request Body. Veremos principalmente como enviá-los pelo Insomnia, como configurar o servidor para recebê-los, como utilizá-los no código e quais parâmetros devem ser utilizados em cada rota.
 
+ ## Aplicação Funcional<br />
+
+ Agora chegou a hora de utilizar os conhecimentos obtidos nas aulas anteriores para montar uma aplicação funcional onde iremos listar, cadastrar, atualizar e deletar projetos. Serão aplicados os 4 métodos HTTP (GET, POST, PUT e DELETE) e os 3 tipos de parâmetros (Query, Route e Body). Também iremos gerenciar os projetos diretamente na memória do servidor utilizando arrays, utilizar o uuid como identificador único de cada projeto e retornar manualmente um HTTP Status Code que melhor condiz com a resposta do servidor.
+
+
+
+
 ## Techs
 
 - [x] node.js
