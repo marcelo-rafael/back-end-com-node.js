@@ -38,13 +38,17 @@ Nessa aula nós vamos falar novamente sobre métodos HTTP, mas dessa vez na prá
 
  Agora chegou a hora de utilizar os conhecimentos obtidos nas aulas anteriores para montar uma aplicação funcional onde iremos listar, cadastrar, atualizar e deletar projetos. Serão aplicados os 4 métodos HTTP (GET, POST, PUT e DELETE) e os 3 tipos de parâmetros (Query, Route e Body). Também iremos gerenciar os projetos diretamente na memória do servidor utilizando arrays, utilizar o uuid como identificador único de cada projeto e retornar manualmente um HTTP Status Code que melhor condiz com a resposta do servidor.
 
+## Middlewares<br />
 
+ Para finalizar esse módulo, iremos falar sobre middlewares e sua importância nas aplicações que iremos utilizar durante o restante do bootcamp. Serão apresentados o formato do middleware, os seus parâmetros, formas de aplicá-los no código e como utilizá-lo para alterar o fluxo das requisições. Tudo isso utilizando exemplos práticos como o log de todas as requisições feitas para o servidor e a verificação se o id do projeto é um uuid.
 
 
 ## Techs
 
 - [x] node.js
 - [x] Insomnia
+- [x] Métodos HTTP
+- [x] Middlewares
 - [x] API REST
 - [x] Nodemon
 
