@@ -16,7 +16,7 @@ Na nossa primeira aula prática vamos começar criando nosso primeiro projeto no
 
 Como vimos na aula anterior, é muito ruim ter que ficar reiniciando o servidor manualmente a cada alteração no código. Por isso, veremos como instalar e configurar o Nodemon para que ele aplique essas alterações automaticamente e assim ajude na nossa produtividade no ambiente de desenvolvimento.
 
-## Métodos HTTP
+## Métodos HTTP<br />
 
 Nessa aula nós vamos falar novamente sobre métodos HTTP, mas dessa vez na prática. Apresentaremos novamente sobre as peculiaridades de cada um enquanto criamos as rotas com os 4 principais métodos (GET, POST, PUT e DELETE). Deixaremos o código preparado para que possamos realizar os testes com o Insomnia na próxima aula.
 
@@ -26,11 +26,13 @@ Nessa aula nós vamos falar novamente sobre métodos HTTP, mas dessa vez na prá
  * PUT/PATCH: Alterar uma informação no back-end
  * DELETE: Deletar uma informação no back-end
 
- ## Utilizando Insomnia
+ ## Utilizando Insomnia<br />
 
  Nessa aula iremos começar instalando o Insomnia que é uma ferramenta incrível para nos auxiliar a debugar APIs. Também apresentaremos softwares alternativos caso você prefira e o passo a passo para instalar o tema Dracula. Com o aplicativo instalado, vamos aprender a criar sub environments, montar as requisições para testar as rotas com os 4 métodos HTTP e executá-las para visualizar o retorno em JSON de cada uma delas.
  
+ ## Tipos de Parâmetros<br />
 
+ Nessa aula nós vamos aplicar na prática os três tipos de parâmetros: Query Params, Route Params e Request Body. Veremos principalmente como enviá-los pelo Insomnia, como configurar o servidor para recebê-los, como utilizá-los no código e quais parâmetros devem ser utilizados em cada rota.
 
 ## Techs
 
