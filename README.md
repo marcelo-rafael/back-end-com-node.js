@@ -12,6 +12,23 @@ Backend com Node.jss
 
 Na nossa primeira aula prática vamos começar criando nosso primeiro projeto node. Veremos como iniciar um projeto, instalar o ExpressJS, instanciar nosso primeiro servidor na porta 3333, realizar uma requisição GET e retornar nossa primeira resposta em JSON.
 
+2. Configurando Nodemon<br />
+
+Como vimos na aula anterior, é muito ruim ter que ficar reiniciando o servidor manualmente a cada alteração no código. Por isso, veremos como instalar e configurar o Nodemon para que ele aplique essas alterações automaticamente e assim ajude na nossa produtividade no ambiente de desenvolvimento.
+
+3. Métodos HTTP
+
+Nessa aula nós vamos falar novamente sobre métodos HTTP, mas dessa vez na prática. Apresentaremos novamente sobre as peculiaridades de cada um enquanto criamos as rotas com os 4 principais métodos (GET, POST, PUT e DELETE). Deixaremos o código preparado para que possamos realizar os testes com o Insomnia na próxima aula.
+
+
+ * GET: Buscar informações do back-end
+ * POST: Criar uma informação no back-end
+ * PUT/PATCH: Alterar uma informação no back-end
+ * DELETE: Deletar uma informação no back-end
+
+ 
+ 
+
 
 ## Techs
 
